@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="882d6331-e773-427c-a525-052d9f5d24a4" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1atgh29GlSJGvTqnda9PR4QOLmj" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/jfreechart-1.0.1/lib/servlet.jar!/" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Dmitry\IdeaProjects\kursach\src" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.MyImage">
+    <configuration name="MyImage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Backend.MyImage" />
+      <module name="kursach" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Backend.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="jfreechart-1.0.1-demo.jar" type="JarApplication" temporary="true">
+      <option name="JAR_PATH" value="D:/jfreechart-1.0.1/jfreechart-1.0.1-demo.jar!/" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MyImage" />
+        <item itemvalue="JAR Application.jfreechart-1.0.1-demo.jar" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="882d6331-e773-427c-a525-052d9f5d24a4" name="Default Changelist" comment="" />
+      <created>1587560420161</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587560420161</updated>
+      <workItem from="1587560427501" duration="3830000" />
+      <workItem from="1587625482032" duration="18193000" />
+      <workItem from="1587728026642" duration="645000" />
+      <workItem from="1587734279855" duration="777000" />
+      <workItem from="1587800903330" duration="628000" />
+      <workItem from="1588145887566" duration="811000" />
+      <workItem from="1588355511904" duration="545000" />
+      <workItem from="1588356102645" duration="3296000" />
+      <workItem from="1588505697233" duration="219000" />
+      <workItem from="1588578834082" duration="8135000" />
+      <workItem from="1588592963269" duration="3555000" />
+      <workItem from="1588674364385" duration="785000" />
+      <workItem from="1588746541959" duration="11783000" />
+      <workItem from="1588760237906" duration="4916000" />
+      <workItem from="1588765447300" duration="3779000" />
+      <workItem from="1588774969200" duration="2782000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
